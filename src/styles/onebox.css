@@ -1,0 +1,11 @@
+.onebox-container {
+    padding: 20px;
+    background-color: var(--background-color);
+  }
+  
+  .onebox-item {
+    border: 1px solid var(--text-color);
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  

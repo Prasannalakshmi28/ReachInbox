@@ -1,0 +1,21 @@
+.editor-container {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--background-color);
+    padding: 10px;
+  }
+  
+  .editor-toolbar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .editor-textarea {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid var(--text-color);
+    color: var(--text-color);
+    background-color: var(--background-color);
+  }
+  
